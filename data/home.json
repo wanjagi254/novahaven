@@ -1,0 +1,18 @@
+{
+  "heroTitle": "Discover Prime Lands, Properties & Safaris",
+  "background": "/images/backgrounds/background.1.png",
+  "cards": [
+    {
+      "title": "Prime Lands",
+      "image": "/images/lands/land.package1.png"
+    },
+    {
+      "title": "Luxury Properties",
+      "image": "/images/properties/properties.package1.png"
+    },
+    {
+      "title": "Exclusive Safaris",
+      "image": "/images/safaris/safari.package1.png"
+    }
+  ]
+}

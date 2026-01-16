@@ -1,0 +1,15 @@
+{
+  "background": "/images/backgrounds/background.2.png",
+  "packages": [
+    {
+      "title": "Investment Land",
+      "image": "/images/lands/land.package2.png",
+      "description": "Secure titled land ideal for long-term investment."
+    },
+    {
+      "title": "Residential Plot",
+      "image": "/images/lands/land.package3.png",
+      "description": "Ready-to-build plots in prime locations."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "background": "/images/backgrounds/background.4.png",
+  "packages": [
+    {
+      "title": "Wildlife Safari",
+      "image": "/images/safaris/safari.package2.png",
+      "description": "Experience Kenya’s iconic wildlife."
+    },
+    {
+      "title": "Luxury Safari",
+      "image": "/images/safaris/safari.package3.png",
+      "description": "Premium lodges and private tours."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "lands": [
+    {
+      "id": "1",
+      "title": "Savannah Land Plot",
+      "description": "Beautiful land plot in the Kenyan savannah.",
+      "price": "150000",
+      "image": "/uploads/land1.jpg"
+    }
+  ],
+  "properties": [
+    {
+      "id": "2",
+      "title": "Luxury Villa",
+      "description": "Spacious villa with swimming pool and garden.",
+      "price": "350000",
+      "image": "/uploads/property1.jpg"
+    }
+  ],
+  "safaris": [
+    {
+      "id": "3",
+      "title": "Maasai Mara Safari",
+      "description": "3-day safari adventure in Maasai Mara.",
+      "price": "50000",
+      "image": "/uploads/safari1.jpg"
+    }
+  ]
+}

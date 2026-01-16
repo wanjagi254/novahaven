@@ -1,0 +1,15 @@
+{
+  "background": "/images/backgrounds/background.3.png",
+  "packages": [
+    {
+      "title": "Modern Apartment",
+      "image": "/images/properties/properties.package2.png",
+      "description": "High-end finishes with modern amenities."
+    },
+    {
+      "title": "Family Home",
+      "image": "/images/properties/properties.package3.png",
+      "description": "Spacious homes designed for comfort."
+    }
+  ]
+}

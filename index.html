@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NovaHaven - Premium Lands, Properties & Safaris in Kenya</title>
+
+    <!-- SEO Meta -->
+    <meta name="description" content="Explore and invest in premium lands, properties, and safaris across Kenya. NovaHaven offers curated real estate and safari experiences." />
+    <meta name="keywords" content="Kenya, Lands, Properties, Safaris, Real Estate, Tourism" />
+    <meta name="author" content="NovaHaven" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph (Social Share) -->
+    <meta property="og:title" content="NovaHaven - Premium Lands, Properties & Safaris in Kenya" />
+    <meta property="og:description" content="Explore and invest in premium lands, properties, and safaris across Kenya." />
+    <meta property="og:image" content="/images/logo/logo.png.jpeg" />
+    <meta property="og:url" content="http://localhost:5173" />
+    <meta property="og:type" content="website" />
+
+    <link rel="stylesheet" href="/src/styles/styles.css" />
+  </head>
+  <body>
+
+    <!-- NAVBAR -->
+    <nav class="navbar">
+      <div class="navbar-logo">
+        <img src="/images/logo/logo.png.jpeg" alt="NovaHaven Logo" />
+      </div>
+
+      <div class="nav-links">
+        <a href="/" data-link>Home</a>
+        <a href="/lands" data-link>Lands</a>
+        <a href="/properties" data-link>Properties</a>
+        <a href="/safaris" data-link>Safaris</a>
+        <a href="/contact" data-link>Contact</a>
+        <a href="/admin-login" data-link>Admin Login</a>
+        <a href="/admin" data-link id="adminLink" style="display:none;">Admin Dashboard</a>
+      </div>
+    </nav>
+
+    <!-- ROUTED CONTENT -->
+    <div id="app"></div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
